@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnomalousStorms", "AnomalousStorms\AnomalousStorms.csproj", "{ABDC4D37-BC8B-4DE9-90D9-BD1A3ADD5333}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABDC4D37-BC8B-4DE9-90D9-BD1A3ADD5333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABDC4D37-BC8B-4DE9-90D9-BD1A3ADD5333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABDC4D37-BC8B-4DE9-90D9-BD1A3ADD5333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABDC4D37-BC8B-4DE9-90D9-BD1A3ADD5333}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74409B6B-04CC-46FB-AA5A-DE7854308537}
+	EndGlobalSection
+EndGlobal
